@@ -4,10 +4,10 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,50:5b21b6,100:7c3aed&height=220&section=header&text=Shreyansh%20Agarwal&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Data%20%26%20AI%20Enthusiast&descSize=18&descAlignY=60&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,50:5b21b6,100:7c3aed&height=220&section=header&text=Shreyansh%20Agarwal&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Data%20and%20AI%20Enthusiast&descSize=18&descAlignY=60&animation=fadeIn" />
 
 <a href="https://github.com/Iamshreyyy">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=Full+Stack+Developer+%7C+B.Tech+IT;Building+web+apps+%26+data+dashboards;React+%E2%80%A2+Node.js+%E2%80%A2+FastAPI+%E2%80%A2+SQL;Turning+data+into+products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=Full+Stack+Developer+%7C+B.Tech+IT;Building+web+apps+and+data+dashboards;React+%E2%80%A2+Node.js+%E2%80%A2+FastAPI+%E2%80%A2+SQL;Turning+data+into+products" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -299,7 +299,9 @@ Building real, user-facing features on the core tech team at ExaltRide, a startu
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Iamshreyyy&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=Iamshreyyy&theme=onedark&no-frame=true&no-bg=true&column=4&row=1&margin-w=10&margin-h=10" />
+
+</div>
 
 </div>
 
