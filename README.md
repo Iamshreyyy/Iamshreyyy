@@ -315,7 +315,7 @@ Building real, user-facing features on the core tech team at ExaltRide, a startu
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Iamshreyyy&bg_color=1a0b2e&color=c4b5fd&line=7c3aed&point=a78bfa&area=true&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Iamshreyyy&days=365&bg_color=1a0b2e&color=c4b5fd&line=7c3aed&point=a78bfa&area=true&hide_border=true" />
 
 </div>
 
