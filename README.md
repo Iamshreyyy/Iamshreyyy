@@ -13,7 +13,7 @@
 <br/>
 
 ![Education](https://img.shields.io/badge/B.Tech_IT-Manipal_University_Jaipur-7c3aed?style=for-the-badge&labelColor=1a0b2e)
-![CGPA](https://img.shields.io/badge/CGPA-8.08%2F10-5b21b6?style=for-the-badge&labelColor=1a0b2e)
+![CGPA](https://img.shields.io/badge/CGPA-8.15%2F10-5b21b6?style=for-the-badge&labelColor=1a0b2e)
 ![Location](https://img.shields.io/badge/India-IN-6d28d9?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1a0b2e)
 
 <br/>
